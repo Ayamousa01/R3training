@@ -26,3 +26,5 @@ void loop()
   }
   
 }
+here is a link to my tinkercad design 
+https://www.tinkercad.com/things/10m5jDra14X
